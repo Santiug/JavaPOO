@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Chad
+ *
+ */
+module course {
+}
